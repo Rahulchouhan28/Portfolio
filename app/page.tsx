@@ -20,10 +20,10 @@ const LinkedinIcon = ({ className }: { className?: string }) => (
 
 const projects = [
   {
-    title: "Dairy Central",
-    description: "A specialized Android application for dairy businesses to manage milk collection, maintain customer records, and automate payment tracking efficiently.",
-    icon: <Smartphone className="w-6 h-6 text-blue-400" />,
-    tags: ["Android", "Java", "Firebase"],
+    title: "Billing App",
+    description: "A professional billing and invoice management application built with Flutter, designed to streamline financial tracking and reporting for businesses.",
+    icon: <Database className="w-6 h-6 text-blue-400" />,
+    tags: ["Flutter", "Dart", "Firebase"],
   },
   {
     title: "SkyWay",
